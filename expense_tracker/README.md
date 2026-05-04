@@ -1,15 +1,18 @@
 # Smart Expense Tracker (C)
 
-A command-line expense tracking system built using C.
+A simple command-line expense tracker built in C.
 
 ## Features
 - Add expenses
-- View expenses
+- View all expenses
 - Calculate total spending
 
 ## How to Run
 gcc expense_tracker.c -o expense_tracker
 ./expense_tracker
+
+## Tech
+- C (CLI program)
 
 ## Author
 Abhijit Malakar
